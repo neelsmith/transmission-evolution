@@ -1,4 +1,4 @@
-# transmission-evolution
+# `transmission-evolution`
 
 This repository hosts collaborative work comparing the analysis of transmission and evolution of biological and cultural material.
 
