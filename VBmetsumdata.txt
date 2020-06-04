@@ -1,0 +1,13 @@
+book#page#metricalsummary#hand
+3#41r#present#original
+4#51r#absent#na
+5#62v#absent#na
+6#81v#present#original
+7#92v#present#original
+8#103r#present#original
+9#114r#present#original
+10#129r#present#original
+11#141v#present#original
+12#159r#present#different
+13#169r#present#original
+14#186v#present#original

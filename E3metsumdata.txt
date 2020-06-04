@@ -1,0 +1,12 @@
+book#page#metricalsummary#hand
+2#18r#absent#na
+3#40r#present#different
+4#50r#absent#na
+6#79v#present#original
+7#89v#present#original
+8#98r#present#original
+9#109r#present#original
+10#124r#absent#na
+11#136v#present#original
+12#159r#absent#na
+
