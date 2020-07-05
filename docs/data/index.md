@@ -9,7 +9,7 @@ Data sets are available from the `data` directory of our [github repository](htt
 
 Full diplomatic editions in Unicode Greek:
 
-- `texts/diplomatic/hmt-2020i-textcorpus.cex` is the `2020i` published release of the Homer Multitext archive.
+- `texts/diplomatic/hmt-2020i-textcorpus.cex` is the `2020i` [published releases of the Homer Multitext project archive](https://github.com/homermultitext/hmt-archive/tree/master/releases-cex).
 - `texts/diplomatic/twins9corpus.cex` is built from editions not yet published in a HMT project release, but available from [this github repository](https://github.com/hmteditors/twins-alpha)
 
 
