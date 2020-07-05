@@ -15,3 +15,8 @@ Collaborative work comparing transmission and evolution of biological and cultur
     - Sophia Sarro
     - Anne-Catherine Schaaf
     - Neel Smith
+
+
+## More work in progress
+
+- [project wiki](https://github.com/neelsmith/transmission-evolution/wiki)
