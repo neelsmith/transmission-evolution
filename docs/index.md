@@ -1,11 +1,17 @@
-Web site for collaborative work comparing transmission and evolution of biological and cultural material.
+---
+title: "Transmission-evolution project"
+layout: page
+---
 
-In summer, 2020, work begins on June 1.  Our team:
+Collaborative work comparing transmission and evolution of biological and cultural material.
 
-- Natalie Dimattia
-- Luke Giuntoli
-- Augusta Holyfield
-- Karen Ober
-- Sophia Sarro
-- Anne-Catherine Schaaf
-- Neel Smith
+- [data sets](data/)
+- analyses
+- our team:
+    - Natalie Dimattia
+    - Luke Giuntoli
+    - Augusta Holyfield
+    - Karen Ober
+    - Sophia Sarro
+    - Anne-Catherine Schaaf
+    - Neel Smith
