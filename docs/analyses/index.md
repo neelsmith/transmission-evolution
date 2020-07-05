@@ -9,6 +9,7 @@ We are primarily presenting analyses in Jupyter notebooks available from github 
 ## Data preparation
 
 - [convert citable editions of Greek texts to a simplified ASCII format](https://mybinder.org/v2/gh/neelsmith/summer2020nbs/master?filepath=make-ascii-corpus.ipynb) (useful for computing edit distances and other analyses) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neelsmith/summer2020nbs/master?filepath=make-ascii-corpus.ipynb)
+- computing word counts to guide manual construction of stop-words list for topic modelling
 
 ## Analyzing *Iliad* texts
 
