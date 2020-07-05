@@ -3,6 +3,7 @@ title: "Data sets"
 layout: page
 ---
 
+Data sets are available from the `data` directory of our [github repository](https://github.com/neelsmith/transmission-evolution).
 
 ## Diplomatic editions of texts
 
